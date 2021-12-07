@@ -3,7 +3,7 @@
 ## Repository ini digunakan untuk tugas saja
 
 ### Dibawah ini adalah tampilan websitenya yang sudah memiliki basic CRUD menggunakan bahasa pemograman PHP dan MySQL
-### Tersedia database SQL jika diperlukan
+#### *Tersedia database websitenya di folder database jika memerlukan
 
 ![alt text](https://github.com/izzy25/tugas10/blob/master/images/image1.png?raw=true)
 
