@@ -14,6 +14,6 @@
 
 ![alt text](https://github.com/izzy25/tugas10/blob/master/images/image3.png?raw=true)
 
-## Dan data tersebut telah hilang (bisa check bagian atas 1 data hilang)
+## Dan data tersebut telah hilang (bisa check bagian atas Xiaomi Redmi telah terhapus)
 
 ![alt text](https://github.com/izzy25/tugas10/blob/master/images/image4.png?raw=true)
