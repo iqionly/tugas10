@@ -31,7 +31,7 @@ include "connection.php";
         <input name="id" type="hidden" value="<?php echo $results['id']; ?>" />
         <table align="center">
             <tr>
-                <th colspan="3">INPUT PRODUK</th>
+                <th colspan="3">EDIT PRODUK</th>
             </tr>
             <tr>
                 <td>nama produk</td>

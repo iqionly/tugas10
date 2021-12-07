@@ -8,8 +8,7 @@ if($post_data != null) {
     $sql = "DELETE FROM produk WHERE id = {$post_data['q']}";
 
     if($connection->query($sql) == true) {
-        echo "Record successfull...";
-        header("Location: index.php");
+        echo "Delete data successfull... <a href=\"index.php\">back</a>";
     } else {
         echo "Error failed";
     }
